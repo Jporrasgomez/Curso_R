@@ -1,3 +1,57 @@
 #R básico con Teresa
 vector1<-c(1, 3, 5, 7, 8, NA)
 mean(vector1, na.rm=TRUE)
+constante<-6
+remove(constante)
+valor<-4
+remove(valor)
+10E2+3.5E4
+sin(pi/2)
+10/0
+sqrt(9)
+x<-10
+y<-5
+x+y
+x*y
+((x+y)/x)*y^x
+vector2<-c(1,2,3,4,5,6,7,8,9,10)
+var(vector2)
+sd(vector2)
+mean(vector2)
+remove(vector2)
+remove(vector1)
+vector1<-c(0,1,2,3,4,5,6,7,8,9,10)
+mean(vector1)
+var(vector1)
+sd(vector1)
+max(vector1)
+min(vector1)
+length(vector1)
+sd(vector1)/sqrt(length(vector1))
+remove(vector1)
+vec1<-c(1,2,3,4,5,6,7,8,9)
+vec1+10
+remove(vec1)
+vec1<-c(1,2,3,4,5)
+vec2<-c(11,12,13,14,15)
+vec1+vec2
+min(vec1+vec2)
+max(vec1+vec2)
+remove(x)
+remove(y)
+ls()
+rm(vec1,vec2)
+#Exercises 1.10 manual R
+log(100)*cos(pi)
+x<-10
+y<-20
+x*y
+z<-x*y
+ls()
+myvec<-c(x,y,z)
+min(myvec)
+max(myvec)
+length(myvec)
+var(myvec)
+variance(myvec)
+remove(myvec)
