@@ -1,4 +1,4 @@
-function (filename, nlabelline = 4, dateTimeMethod = c("lubridate", 
+readTOA5<- function (filename, nlabelline = 4, dateTimeMethod = c("lubridate", 
                                                        "POSIXct", "none"), posixctFormat = "%Y-%m-%d %H:%M", 
           addFileName = TRUE, rmDupDateTime = FALSE, ...) 
 {
