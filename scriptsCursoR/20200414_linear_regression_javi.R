@@ -37,10 +37,15 @@ legend('topleft', legend = levels(allom$species), pch = 19,
 
 #Intento de incluir el modelo de regresión en la gráfica con 'abline'
 abline(a = -51.3245, b = 4.6333, col='grey', lty=4)
+
+abline(reg, col = 'grey', lty = 4)
+abline(a = coefficients(reg)[1], b = coefficients(reg)[2])
+
 #Intento de meter leyenda con valores de R2 y p-value
 #Consigo R2 mirando en internet jeje
+# expression y ^2
 legend("bottomright", bty="n", legend=paste("R2 =", format(summary(reg)$adj.r.squared, digits=4)))
- 
+
 #Intentar introducir un MRL para cada especie con el color correspondiente. 
 #Creo que hay que hacer 3 regresiones diferenciadas para sacar los datos. 
 levels(allom$species)
@@ -71,8 +76,19 @@ ablinePIPO <- abline(-64.5259 , 4.2442, lty = 4, col = 'red')
 ablinePIMO <- abline(-31.8764 , 4.4921, lty = 4, col = 'black')
 ablinePSME <- abline(-60.5421 , 5.3715, lty = 4, col = 'green')
 
+sppName <- levels(allom$species)
+myPal <- c('black', 'red', 'green')
+for(i in 1:length(sppName)){
+  r <- lm(leafarea ~ diameter, data = subset(allom, species == sppName[i]))
+  abline(r, col = myPal[i])
+}
+
 #SALE BIEN!! Me faltaría saber como añadir los datos de R2 y p-value a cada linea
 
+# sacar p-valor
+summary(reg)$coef[8]
+format(summary(reg)$coef[8], digits = 4)
+'P < 0.001'
 
 hist(allom$leafarea)
 hist(log(allom$leafarea))
