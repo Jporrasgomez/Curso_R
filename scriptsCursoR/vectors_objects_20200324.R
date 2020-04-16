@@ -1,4 +1,4 @@
-# script básico
+r# script básico
 # ¿Para qué sirve R?
 # R como calculadora
 2 * 3

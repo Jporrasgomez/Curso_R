@@ -14,8 +14,9 @@ vec2 <- seq(from=0, to=20, by=2)
 vec3 <- seq(from = 0, to = 100, by = 10)
 vec4 <- seq(0, 100, 10)
 
-#Función runif() para dar numeros aleatorios. "X numeros de Z a N" vec<-runif(X, Z, N) 
+#Función runif() para dar numeros aleatorios entre 0 y 1 por defecto
 vec5 <- runif(25)
+#Función runif() para dar numeros aleatorios. "X numeros de Z a N" vec<-runif(X, Z, N)
 vec6 <- runif(25, 0, 100)
 #Utiizar función round() para redondear si no queremos decimales
 vec7 <- round(vec3)
