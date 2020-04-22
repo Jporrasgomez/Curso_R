@@ -50,8 +50,8 @@ myMonth <- c(paste0(2017, '-', 4:12), paste0(2018, '-' , 1:3))
 #la función 'for' Le decimos que para cada elemento 'i' de la lista, con una longitud x (en este
 #caso la longitud es el numero de meses de clim, que hemos creado antes en 'myMonth'). Luego
 #le decimos a R que queremos que sea cada elemento 'i'. En este caso, queremos que cada elemento
-#sea un subset de la variable 'YearMonth' del objeto ' climDate' donde 'YearMonth' sea exactamente
-#igual a ¿?¿?¿?¿?
+#sea un subset de la variable 'YearMonth' del objeto ' climDate' para cada elemento del objeto
+#'myMonth'. 
 climList <- list()
 for(i in 1:length(myMonth)){
   climList[[i]] <- as.data.frame(subset(climDate, YearMonth == myMonth[i]))

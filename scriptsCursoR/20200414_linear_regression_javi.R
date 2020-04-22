@@ -44,7 +44,8 @@ abline(a = coefficients(reg)[1], b = coefficients(reg)[2])
 #Intento de meter leyenda con valores de R2 y p-value
 #Consigo R2 mirando en internet jeje
 # expression y ^2
-legend("bottomright", bty="n", legend=paste("R2 =", format(summary(reg)$adj.r.squared, digits=4)))
+legend("bottomright", bty="n", legend=paste("R2 =",
+                                            format(summary(reg)$r.squared, digits=4)))
 
 #Intentar introducir un MRL para cada especie con el color correspondiente. 
 #Creo que hay que hacer 3 regresiones diferenciadas para sacar los datos. 
@@ -76,17 +77,41 @@ ablinePIPO <- abline(-64.5259 , 4.2442, lty = 4, col = 'red')
 ablinePIMO <- abline(-31.8764 , 4.4921, lty = 4, col = 'black')
 ablinePSME <- abline(-60.5421 , 5.3715, lty = 4, col = 'green')
 
-sppName <- levels(allom$species)
-myPal <- c('black', 'red', 'green')
-for(i in 1:length(sppName)){
-  r <- lm(leafarea ~ diameter, data = subset(allom, species == sppName[i]))
-  abline(r, col = myPal[i])
-}
 
 #SALE BIEN!! Me faltaría saber como añadir los datos de R2 y p-value a cada linea
 
-# sacar p-valor
+
+###COMO HACERLO CON UN LOOP. Plotear las tres 'abline' a la vez sobre el plot. 
+#1) Cargamos el plot que hemos hecho antes. 
+windows(12, 8)
+plot(allom$leafarea ~ allom$diameter, pch = 19, col = as.factor(allom$species),
+     ylab = expression('Leaf Area'~(m^2)), xlab = 'DBH (m)', par(mar = c(5,5,1.5,1.5)))
+
+legend('topleft', legend = levels(allom$species), pch = 19,
+       col = as.factor(levels(allom$species)), bty = 'n')
+
+#2)Crear un objeto que defina la longitud del plot. En este caso, como queremos hacer un
+#un loop que contenga 3 elementos, uno para cada especie, creamos un vector con estas 3 especies
+sppName <- levels(allom$species)
+
+#Para la función del plot, utilizamos 'lm', lo unico que le indicamos a R que utiliza 'data'
+#como un subset de allom en el que se utilice de forma separada cada especie. Para este caso,
+#no hace falta crear una lista ya que los elementos para hacer el loop son facilmente
+#identificables y al ser factoriales podemos ordenarlos facilmente con 'levels'. 
+myPal <- c('black', 'red', 'green')
+for(i in 1:length(sppName)){
+  r <- lm(leafarea ~ diameter, data = subset(allom, species == sppName[i]))
+  abline(r, col = myPal[i], lty = 4)
+}
+
+# sacar p-valor. Para esto hay que conocer la estrutura de reg ya que R lo trata como una lista
+#Podemos seleccionar elementos de esta lista. 
+summary(reg)
+str(reg[1])
+str(reg)$coef
+#1 forma
 summary(reg)$coef[8]
+#Otra forma
 format(summary(reg)$coef[8], digits = 4)
 'P < 0.001'
 
