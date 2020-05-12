@@ -42,7 +42,8 @@ library(googlesheets4)
 library(lubridate)
 
 # create object from google spreasheet
-meta_data <- read_sheet("https://docs.google.com/spreadsheets/d/1Z7HathxScqACg5vBxWm5dBTbiYMsRKGFDWu2okI2JLE/edit#gid=0")
+meta_data <- read_sheet
+("https://docs.google.com/spreadsheets/d/1Z7HathxScqACg5vBxWm5dBTbiYMsRKGFDWu2okI2JLE/edit#gid=0")
 # character vector with today's date and name of file
 metaToday <- paste0(today(), '_meta_data.csv')
 # save a copy of the google spreadsheet in .csv format in local directory
@@ -64,3 +65,9 @@ drive_upload(paste0('other_vars/', otherVarsToday),
              path = paste0('backup_meta_analysis/other_vars_backup/', otherVarsToday))
 
 # now the part for plant water sources is missing 
+
+data_water_sources <- read_sheet("https://docs.google.com/spreadsheets/d/1udiv5w7YXCZXP2Pjnpshkzxsx5dxV1slG0OX7eztVq4/edit#gid=0")
+watersourcesToday <- paste0(today(), '_data_water_sources.csv')
+write.csv(data_water_sources, file = paste0('data_water_sources/', watersourcesToday), row.names = F)
+drive_upload(paste0('data_water_sources/', watersourcesToday),
+             path = paste0('backup_meta_analysis/source_meta/', watersourcesToday))
