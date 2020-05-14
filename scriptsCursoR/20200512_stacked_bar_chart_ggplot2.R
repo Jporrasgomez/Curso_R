@@ -25,16 +25,6 @@ javi %>%
   ylab("") +
   theme_bw()
 
-# A grouped barplot
-babynames  %>% 
-  filter(name %in% c("Ashley", "Patricia", "Betty", "Helen")) %>%
-  filter(year %in% c(1920, 1960, 2000)) %>%
-  mutate(year=as.factor(year)) %>%
-  ggplot( aes(x=year, y=n, fill=name)) +
-  geom_bar(stat="identity", width = 0.5) +
-  theme_classic() +
-  ylab("Number of baby")
-
 # reshape Javi's data-frame
 
 names(javi)[2:(ncol(javi)-1)] <- paste0(1:3, names(javi)[2:(ncol(javi)-1)])
