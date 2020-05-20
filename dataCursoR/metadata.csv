@@ -1,0 +1,580 @@
+Review_label;Autor;Year;Geographic_range;Km2;Ecosystem type*;Ecosystem nature;Review_type;N_studies;Time_range;Variables;Variable_type;Factor_Label;Factor
+12;Kristen Fernandes;2018;Australia;7741220;Several;Terrestrial;Review;46;5;Lack of fauna monitoring ;Barrier;15; Success assessment and evaluation
+12;Kristen Fernandes;2018;Australia;7741220;Several;Terrestrial;Review;46;5;Difficulties monitoring invertebrates;Barrier;15; Success assessment and evaluation
+12;Kristen Fernandes;2018;Australia;7741220;Several;Terrestrial;Review;46;5;DNA metabarcoding as a monitoring technique;Booster;15; Success assessment and evaluation
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Artificial perches;Booster;14; Restoration techniques
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Active allowance of propagules entrance;Booster;14; Restoration techniques
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Predominance of anemochorous seeds;Barrier;24; Intrinsic biotic factors
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Lack of propagule source;Barrier;24; Intrinsic biotic factors
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Lack of monitoring;Barrier;15; Success assessment and evaluation
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Low economical and manpower costs of using perches;Booster;3; Economic costs of restoration
+61;Brenda Yamile Guidetti ;2016;Amazon;7050000;Forests;Terrestrial;Meta-Analysis;24;5;Excessive reliance on reforestation;Barrier;14; Restoration techniques
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Technological development;Booster;17; Instruments, technology and resources
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Local knowledge;Booster;5; Societal integration
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Clear legal environment;Booster;4; Policies and governance
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Effective economic instruments and incentives being operational;Booster;4; Policies and governance
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Stakeholders integration;Booster;5; Societal integration
+105;Felipe P.L. Melo;2013;Brazil;8514877;Forests;Terrestrial;Review;25;5;Private property of lands;Barrier;2; Land-tenure rights
+125;James M. Bullock;2011; Madagascar, China, Florida (USA), South Africa, Latin America;33795404;Several;All kinds;Review;13;5;Long-term unsustainability of PES (Payment for Ecosystem Services);Barrier;18; Temporal scale of the restoration projects
+125;James M. Bullock;2011; Madagascar, China, USA, South Africa, Latin America;33795404;Several;All kinds;Review;13;5;Inequity of PES;Barrier;7; Payment for ecosystem services
+29;H.M. Flávio;2017;Europe;10180000;Rivers;Aquatic;Review;245;10;Phosphorus legacy;Barrier;20;Historical land-use
+29;H.M. Flávio;2017;Europe;10180000;Rivers;Aquatic;Review;245;10;Difuse sediment pollution sources;Barrier;25; Spatial scale
+29;H.M. Flávio;2017;Europe;10180000;Rivers;Aquatic;Review;245;10;Water abstraction;Barrier;21; Ongoing degradation
+30;Talía Zamboni ;2017;Argentina;2780400;Forests;Terrestrial;Review;39;10;Proactive communication with stakeholders;Booster;5; Societal integration
+30;Talía Zamboni ;2017;Argentina;2780400;Forests;Terrestrial;Review;39;10;Good public image;Booster;5; Societal integration
+30;Talía Zamboni ;2017;Argentina;2780400;Forests;Terrestrial;Review;39;10;Positive cycles of success-reputation-economical funding;Booster;6; Funding
+30;Talía Zamboni ;2017;Argentina;2780400;Forests;Terrestrial;Review;39;10;Intensive monitoring of every realeased animal;Booster;15; Success assessment and evaluation
+30;Talía Zamboni ;2017;Argentina;2780400;Forests;Terrestrial;Review;39;10;Active methods to ensure animals survival during first months;Booster;14; Restoration techniques
+42;Britta L. Timpane-Padgham ;2017;Global;54870139;Several;All kinds;Systematic review;170;10;Connectivity;Booster;11; Knowledge on genetics
+42;Britta L. Timpane-Padgham ;2017;Global;54870139;Several;All kinds;Systematic review;170;10;Genetic diversity;Booster;11; Knowledge on genetics
+42;Britta L. Timpane-Padgham ;2017;Global;54870139;Several;All kinds;Systematic review;170;10;Presence of refugia or suport areas;Booster;23; Intrinsic abiotic factors
+42;Britta L. Timpane-Padgham ;2017;Global;54870139;Several;All kinds;Systematic review;170;10;Incorporation of natural environmental fluctuations/disturbance;Booster;19; Context-specific factor consideration
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Lack of recognision of fire exclusion threats;Barrier;9; Integration of existing scientific knowledge 
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Lack of specific and communal requirements on EMR planning elaboration;Barrier;19; Context-specific factor consideration
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Lack of templates or checklists on decision making;Barrier;16; Project planning and goal definition
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Poor application of policy plans;Barrier;4; Policies and governance
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Site history information;Booster;10; Knowledge on ecosystem structure and function
+70;Andrew G. Baker;2016;Byron Shire, Australia;809444;Forests;Terrestrial;Review;60;10;Clear identification and remediation of fire exclusion threats;Booster;14; Restoration techniques
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Engaging stakeholders ;Booster;5; Societal integration
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Trade-off between stakeholders;Booster;5; Societal integration
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Addressing socioeconomic needs;Booster;5; Societal integration
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Lack of flexibility of the restoration programme;Barrier;16; Project planning and goal definition
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Lack of knowledge of indiginous species;Barrier;10; Knowledge on ecosystem structure and function
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Unclear land rights tenure;Barrier;2; Land-tenure rights
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Lack of long-term funding;Barrier;18; Temporal scale of the restoration projects
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Integration of restoration project in existing framework;Booster;4; Policies and governance
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Attaching economical value to ecosystem;Booster;1; Socioeconomic knowledge
+98;Stephanie Mansourian;2014;Bulgaria, Armenia, Azerbaijan, Georgia, China, Madagascar, Malaysia, New Caledonia, Paraguay, Portugal, Tanzania and Vietnam;12536998;Forests;Terrestrial;Review;45;10;Lack of monitoring program;Barrier;15; Success assessment and evaluation
+104;Weimin Xi;2014;China;9596961;Forests;Terrestrial;Review;14;10;Funding restrictions;Barrier;6; Funding
+104;Weimin Xi;2014;China;9596961;Forests;Terrestrial;Review;14;10;Unclear land-tenure rights;Barrier;2; Land-tenure rights
+104;Weimin Xi;2014;China;9596961;Forests;Terrestrial;Review;14;10;Gap between success evaluation source;Barrier;15; Success assessment and evaluation
+104;Weimin Xi;2014;China;9596961;Forests;Terrestrial;Review;14;10;Wrong selection of tree species in reforestation program;Barrier;14; Restoration techniques
+104;Weimin Xi;2014;China;9596961;Forests;Terrestrial;Review;14;10;Lack of a standardized evaluation method;Barrier;15; Success assessment and evaluation
+109;James Blignaut;2013;India, Ethiopia, Kenya, Tanzania and Uganda ;6160268;Several;All kinds;Systematic Review;1575;10;Weak link between ecological restoration and payment for ecosystem services;Barrier;7; Payment for ecosystem services
+109;James Blignaut;2013;India, Ethiopia, Kenya, Tanzania and Uganda ;6160268;Several;All kinds;Systematic Review;1575;10;Lack of integration of policies issues;Barrier;4; Policies and governance
+112;Andrew J. LoSchiavo;2013;Everglades, South Florida;20202;Wetlands;Aquatic;Review;24;10;Establishment of mandate/authority;Booster;4; Policies and governance
+112;Andrew J. LoSchiavo;2013;Everglades, South Florida;20202;Wetlands;Aquatic;Review;24;10;Integration within institutional framework;Booster;4; Policies and governance
+112;Andrew J. LoSchiavo;2013;Everglades, South Florida;20202;Wetlands;Aquatic;Review;24;10;Lack of integration within a science framework;Barrier;9; Integration of existing scientific knowledge 
+112;Andrew J. LoSchiavo;2013;Everglades, South Florida;20202;Wetlands;Aquatic;Review;24;10;Long-term funding;Barrier;18; Temporal scale of the restoration projects
+112;Andrew J. LoSchiavo;2013;Everglades, South Florida;20202;Wetlands;Aquatic;Review;24;10;Establishment of peer review mechanism;Booster;9; Integration of existing scientific knowledge 
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Limited temporal scale of restoration projects;Barrier;18; Temporal scale of the restoration projects
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Conceptual difficulties at selecting reference site;Barrier;16; Project planning and goal definition
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Plant establishment techniques;Barrier;14; Restoration techniques
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Biological soil crusts;Booster;24; Intrinsic biotic factors
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Recruitment bottlenecks;Barrier;24; Intrinsic biotic factors
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Seed germination ;Barrier;24; Intrinsic biotic factors
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Gap between experiments and projects;Barrier;9; Integration of existing scientific knowledge 
+124;J. Cortina;2011;Iberian south-east;505370;Arid zones;Terrestrial;Review;55;10;Lack of social involvement;Barrier;5; Societal integration
+126;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;36;10;Bad plannification of the reforestation project;Barrier;16; Project planning and goal definition
+126;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;36;10;Lack of integration of climate conditions in the reforestation project. ;Barrier;19; Context-specific factor consideration
+126;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;36;10;Underconsideration of several factors during reforestation program;Barrier;16; Project planning and goal definition
+126;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;36;10;Lack of integration of knowledge about structure and composition;Barrier;9; Integration of existing scientific knowledge 
+127;Philip J. Burton ;2011;Global;54870139;Forests;Terrestrial;Review;279;10;Main focus on tree species during reforestation;Barrier;16; Project planning and goal definition
+127;Philip J. Burton ;2011;Global;54870139;Forests;Terrestrial;Review;279;10;Limitted research onto several techniques;Barrier;13; Research about restoration practices
+127;Philip J. Burton ;2011;Global;54870139;Forests;Terrestrial;Review;279;10;Limitted research onto several processes ;Barrier;10; Knowledge on ecosystem structure and function
+127;Philip J. Burton ;2011;Global;54870139;Forests;Terrestrial;Review;279;10;Lack of economical costs discussion;Barrier;1; Socioeconomic knowledge
+127;Philip J. Burton ;2011;Global;54870139;Forests;Terrestrial;Review;279;10;Thinning of tree layer and elimination of non-target species;Booster;14; Restoration techniques
+132;James Aronson;2010;Global;54870139;Several;All kinds;Meta-Analysis;1582;10;Lack of valuation and definition of socioeconomical outcomes;Barrier;1; Socioeconomic knowledge
+132;James Aronson;2010;Global;54870139;Several;All kinds;Meta-Analysis;1582;10;Lack of interviews during the monitoring process;Barrier;15; Success assessment and evaluation
+132;James Aronson;2010;Global;54870139;Several;All kinds;Meta-Analysis;1582;10;Lack of payment for ecosystem services;Barrier;7; Payment for ecosystem services
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Mangroves removal;Barrier;21; Ongoing degradation
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Predation;Barrier;24; Intrinsic biotic factors
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Foccusing mainly in plantation of mangroves ;Barrier;16; Project planning and goal definition
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Lack of framework that considers mangrove plantation fate;Barrier;15; Success assessment and evaluation
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Lack of integration of periods of inundation and dryness;Barrier;19; Context-specific factor consideration
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Flooding characteristics;Booster;23; Intrinsic abiotic factors
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Hydrologic restriction of tidals or freshwater;Barrier;21; Ongoing degradation
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Integration of local communities;Booster;5; Societal integration
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Lack of assessment of success;Barrier;15; Success assessment and evaluation
+146;J.O. Bosire;2008;Qatar, Thailand, Florida (USA), New Zealand, Kenya, Sri Lanka, Malaysia, Indonesia, Cuba;3686271;Wetlands;Aquatic;Review;40;10;Knowledge of reference sites;Booster;10; Knowledge on ecosystem structure and function
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Dispersal limitation;Barrier;24; Intrinsic biotic factors
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Low water availability;Barrier;23; Intrinsic abiotic factors
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Extreme temperatures;Barrier;23; Intrinsic abiotic factors
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Poor soil structure ;Barrier;23; Intrinsic abiotic factors
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Low nutrient availability;Barrier;23; Intrinsic abiotic factors
+147;Jose M. Rey Benayas;2008;Latin America, Sri Lanka, Madagascar, Japan, Mexico, Honduras;25329433;Agroecosystem;Terrestrial;Review;15;10;Biotic limitations;Barrier;24; Intrinsic biotic factors
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Local communities oposition to restoration program;Barrier;5; Societal integration
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Inadequate integration between local knowledge approach and scientific approach;Barrier;5; Societal integration
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Spatio-temporal mismatch between ecological scale production of ES and socioeconomical demand;Barrier;25; Spatial scale
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Spatio-temporal mismatch between ecological scale production of ES and socioeconomical demand;Barrier;18; Temporal scale of the restoration projects
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Large and diverse distributions of stakeholders;Barrier;5; Societal integration
+19;Stephanie S. Romañach;2018;Global;54870139;Wetlands;Aquatic;Review;14;15;Overlapping marine and terrestrial areas with different regulations and jurisdictions;Barrier;4; Policies and governance
+52;Johannes Kollmann;2016;USA, Europe, China, Australia, New Zealand;37157065;Several;All kinds;Review;224;15;Lack of specific information reported by reviewed articles;Barrier;12; Methodological limitations
+52;Johannes Kollmann;2016;USA, Europe, China, Australia, New Zealand;37157065;Several;All kinds;Review;224;15;Reduced time span of the restoration projects;Barrier;18; Temporal scale of the restoration projects
+52;Johannes Kollmann;2016;USA, Europe, China, Australia, New Zealand;37157065;Several;All kinds;Review;224;15;Over/under representation of some organisms in the functions monitoring;Barrier;15; Success assessment and evaluation
+52;Johannes Kollmann;2016;USA, Europe, China, Australia, New Zealand;37157065;Several;All kinds;Review;224;15;Research gaps about some ecosystem functions;Barrier;10; Knowledge on ecosystem structure and function
+53;Yanjiao Ren;2016;China;9596961;Grasslands;Terrestrial;Meta-Analysis;70;15;Uncertainity in restoration age influence;Barrier;10; Knowledge on ecosystem structure and function
+53;Yanjiao Ren;2016;China;9596961;Grasslands;Terrestrial;Meta-Analysis;70;15;Lack of duration of restoration process and number of repeated actions data;Barrier;13; Research about restoration practices
+53;Yanjiao Ren;2016;China;9596961;Grasslands;Terrestrial;Meta-Analysis;70;15;Lack of data reported about conditions prior to restoration project ;Barrier;12; Methodological limitations
+53;Yanjiao Ren;2016;China;9596961;Grasslands;Terrestrial;Meta-Analysis;70;15;Limited funding;Barrier;6; Funding
+53;Yanjiao Ren;2016;China;9596961;Grasslands;Terrestrial;Meta-Analysis;70;15;Lack of cost-effective analysis;Barrier;1; Socioeconomic knowledge
+65;Renato Crouzeilles;2016;Global;54870139;Forests;Terrestrial;Meta-Analysis;7;15;Landscape context: 10 km around the disturbance site;Booster;25; Spatial scale
+65;Renato Crouzeilles;2016;Global;54870139;Forests;Terrestrial;Meta-Analysis;7;15;Contiguous forest cover below 50%;Barrier;24; Intrinsic biotic factors
+65;Renato Crouzeilles;2016;Global;54870139;Forests;Terrestrial;Meta-Analysis;7;15;Ecological compensation policies;Barrier;4; Policies and governance
+86;María Paula Barral;2015;New Zealand, Puerto Rico, South Africa, Spain, Sweden, Switzerland, UK, USA, Australia, China, Ethiopia, Finland, Germany, Guinea, Irealnd, Italy, Mexico, The Netherlands;33868754;Agroecosystem;Terrestrial;Meta-Analysis;54;15;Analazying synergies between ES to quantify restoration outcomes;Booster;15; Success assessment and evaluation
+86;María Paula Barral;2015;New Zealand, Puerto Rico, South Africa, Spain, Sweden, Switzerland, UK, USA, Australia, China, Ethiopia, Finland, Germany, Guinea, Irealnd, Italy, Mexico, The Netherlands;33868754;Agroecosystem;Terrestrial;Meta-Analysis;54;15;Lack of economical costs considerations;Barrier;1; Socioeconomic knowledge
+86;María Paula Barral;2015;New Zealand, Puerto Rico, South Africa, Spain, Sweden, Switzerland, UK, USA, Australia, China, Ethiopia, Finland, Germany, Guinea, Irealnd, Italy, Mexico, The Netherlands;33868754;Agroecosystem;Terrestrial;Meta-Analysis;54;15;Limitations of the available data ;Barrier;12; Methodological limitations
+86;María Paula Barral;2015;New Zealand, Puerto Rico, South Africa, Spain, Sweden, Switzerland, UK, USA, Australia, China, Ethiopia, Finland, Germany, Guinea, Irealnd, Italy, Mexico, The Netherlands;33868754;Agroecosystem;Terrestrial;Meta-Analysis;54;15;Creating habitats in field margins;Booster;14; Restoration techniques
+86;María Paula Barral;2015;New Zealand, Puerto Rico, South Africa, Spain, Sweden, Switzerland, UK, USA, Australia, China, Ethiopia, Finland, Germany, Guinea, Irealnd, Italy, Mexico, The Netherlands;33868754;Agroecosystem;Terrestrial;Meta-Analysis;54;15;Lack of research in tropical areas;Barrier;8; Geographic bias
+110;Xingliang Wang;2013;China;9596961;Forests;Terrestrial;Review;21;15;Wrong selection of tree species in reforestation program;Barrier;14; Restoration techniques
+110;Xingliang Wang;2013;China;9596961;Forests;Terrestrial;Review;21;15;Lack of understanding of soil and water dynamics;Barrier;10; Knowledge on ecosystem structure and function
+110;Xingliang Wang;2013;China;9596961;Forests;Terrestrial;Review;21;15;"""Restore as quickly as possible"" criteria";Barrier;16; Project planning and goal definition
+110;Xingliang Wang;2013;China;9596961;Forests;Terrestrial;Review;21;15;Insufficient monitoring practises;Barrier;15; Success assessment and evaluation
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Structures damage by waves and storms;Barrier;23; Intrinsic abiotic factors
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Predation;Barrier;24; Intrinsic biotic factors
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Macroalgae accumulation;Barrier;24; Intrinsic biotic factors
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Sediment accumulation;Barrier;23; Intrinsic abiotic factors
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Stakeholders integration;Booster;5; Societal integration
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Local community involvement;Booster;5; Societal integration
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Funding restrictions;Barrier;6; Funding
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Low-cost methodologies;Booster;3; Economic costs of restoration
+113;CN Young;2012;Caribbean islands;2754000;Marine;Oceanic;Review;41;15;Integration of ecosystem-based management and conservation;Booster;16; Project planning and goal definition
+116;Diane De Steven;2012;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;15;15;Lack of knowledge of reference site;Barrier;10; Knowledge on ecosystem structure and function
+116;Diane De Steven;2012;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;15;15;Incompatibility between project goals and site hydrogeomorphic limitations;Barrier;19; Context-specific factor consideration
+116;Diane De Steven;2012;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;15;15;Knowledge of wetland hydrogeomorphologic type;Booster;10; Knowledge on ecosystem structure and function
+119;Eric T. Schultz;2012;UK, Greece, Japan, Taiwan, Manitoba (Canada);1437259;Several;Aquatic;Review;20;15;Lack of minimal standards for measurability of indicators;Barrier;15; Success assessment and evaluation
+119;Eric T. Schultz;2012;UK, Greece, Japan, Taiwan, Manitoba (Canada);1437259;Several;Aquatic;Review;20;15;Lack of minimal standards for interpretability of indicators;Barrier;15; Success assessment and evaluation
+141;Sammy L. King;2009;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;25;15;Stratregies on planting;Booster;14; Restoration techniques
+141;Sammy L. King;2009;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;25;15;Lack of post-plantation management;Barrier;16; Project planning and goal definition
+141;Sammy L. King;2009;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;25;15;Levees or navigation structures;Barrier;21; Ongoing degradation
+141;Sammy L. King;2009;Southeastern USA;2342793.5;Wetlands;Aquatic;Review;25;15;Lack of spatial scale considerations;Barrier;25; Spatial scale
+153;Thamasak Yeemin;2006;Thailand;513120;Marine;Oceanic;Review;19;15;The cost–benefit analysis framework ;Booster;15; Success assessment and evaluation
+153;Thamasak Yeemin;2006;Thailand;513120;Marine;Oceanic;Review;19;15;Economical cost;Barrier;3; Economic costs of restoration
+153;Thamasak Yeemin;2006;Thailand;513120;Marine;Oceanic;Review;19;15;Problems in enforcing legislation and regulations. ;Barrier;4; Policies and governance
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Unstable rubble makes unefective coral transplantation. ;Booster;14; Restoration techniques
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Site-specific considerations in coral nurseries;Booster;19; Context-specific factor consideration
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Use of different local coral species in coral nurseries;Booster;14; Restoration techniques
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Lack of clear scientific goals ;Barrier;16; Project planning and goal definition
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Lack of tools to assess restoration success ;Barrier;15; Success assessment and evaluation
+155;Baruch Rinkevich;2005;Global;54870139;Marine;Oceanic;Review;63;15;Substrate stabilization by electrolysis may be the best option;Booster;14; Restoration techniques
+157;Francine M. R. Hughes;2003;Nevada (USA), Alberta (USA), Colorado (USA), State of Victoria (Australia), South Africa, U.K., Slovakia, The Netherlands, Poland, Croatia, Czech Republic, Austria;3530611.7;Forests;Aquatic;Review;21;15;Mismatch between socioeconomic management and natural processes;Barrier;21; Ongoing degradation
+157;Francine M. R. Hughes;2003;Nevada (USA), Alberta (USA), Colorado (USA), State of Victoria (Australia), South Africa, U.K., Slovakia, The Netherlands, Poland, Croatia, Czech Republic, Austria;3530611.7;Forests;Aquatic;Review;21;15;Lack of understanding of processes;Barrier;10; Knowledge on ecosystem structure and function
+157;Francine M. R. Hughes;2003;Nevada (USA), Alberta (USA), Colorado (USA), State of Victoria (Australia), South Africa, U.K., Slovakia, The Netherlands, Poland, Croatia, Czech Republic, Austria;3530611.7;Forests;Aquatic;Review;21;15;Lack of international cooperation;Barrier;4; Policies and governance
+76;Rebecca S. Barak;2016;North America;23633760;Several;All kinds;Review;33;16;Use of paleocology and evolutionary data;Booster;10; Knowledge on ecosystem structure and function
+95;Paula Meli;2014;USA, Canada, Spain, Sweden, Austria, Australia, New Zealand, China, Kenya, Philippines, Honduras;38994130;Wetlands;Aquatic;Meta-Analysis;70;16;Lack of taxonomic resolution;Barrier;10; Knowledge on ecosystem structure and function
+95;Paula Meli;2014;USA, Canada, Spain, Sweden, Austria, Australia, New Zealand, China, Kenya, Philippines, Honduras;38994130;Wetlands;Aquatic;Meta-Analysis;70;16;Lack of functional resolution;Barrier;10; Knowledge on ecosystem structure and function
+95;Paula Meli;2014;USA, Canada, Spain, Sweden, Austria, Australia, New Zealand, China, Kenya, Philippines, Honduras;38994130;Wetlands;Aquatic;Meta-Analysis;70;16;Lack of understanding of biodiversity-ecosystem services relation;Barrier;10; Knowledge on ecosystem structure and function
+95;Paula Meli;2014;USA, Canada, Spain, Sweden, Austria, Australia, New Zealand, China, Kenya, Philippines, Honduras;38994130;Wetlands;Aquatic;Meta-Analysis;70;16;Site-specific considerations during evaluation;Booster;15; Success assessment and evaluation
+95;Paula Meli;2014;USA, Canada, Spain, Sweden, Austria, Australia, New Zealand, China, Kenya, Philippines, Honduras;38994130;Wetlands;Aquatic;Meta-Analysis;70;16;Lack of economical costs considerations;Barrier;1; Socioeconomic knowledge
+1;Chunbo Huang;2019;China;9596961;Several;Terrestrial;Meta-Analysis;103;20;Limitations on the comparission of effectiviness of active and passive restoration approach;Barrier;13; Research about restoration practices
+1;Chunbo Huang;2019;China;9596961;Several;Terrestrial;Meta-Analysis;103;20;Climate and altitude variability;Booster;23; Intrinsic abiotic factors
+1;Chunbo Huang;2019;China;9596961;Several;Terrestrial;Meta-Analysis;103;20;Land use;Barrier;20;Historical land-use
+4;Bingquian Su;2018;China;9596961;Several;Terrestrial;Meta-Analysis;66;20;Indiscriminately increasing planting density;Barrier;14; Restoration techniques
+4;Bingquian Su;2018;China;9596961;Several;Terrestrial;Meta-Analysis;66;20;Lack of environmental conditions integration;Barrier;19; Context-specific factor consideration
+4;Bingquian Su;2018;China;9596961;Several;Terrestrial;Meta-Analysis;66;20;Limited knowledge about vegetation management;Barrier;13; Research about restoration practices
+8;Helen Fox;2018;Wisconsin (USA), Florida (USA), China, Scotland, Denmark, Reunion Island, Taiwan, Zambia, Botswana, India, Thailand;15358347;Several;All kinds;Review;85;20;Power dynamics: communities engagement;Booster;5; Societal integration
+8;Helen Fox;2018;Wisconsin (USA), Florida (USA), China, Scotland, Denmark, Reunion Island, Taiwan, Zambia, Botswana, India, Thailand;15358347;Several;All kinds;Review;85;20;Ignoring and/or generating negative livelihood impacts ;Barrier;5; Societal integration
+8;Helen Fox;2018;Wisconsin (USA), Florida (USA), China, Scotland, Denmark, Reunion Island, Taiwan, Zambia, Botswana, India, Thailand;15358347;Several;All kinds;Review;85;20;s;Barrier;12; Methodological limitations
+11;Michelle Browne;2018;North America and Europe;33813760;Wetlands;Aquatic;Systematic review;63;20;Geographical mismatch of research;Barrier;8; Geographic bias
+11;Michelle Browne;2018;North America and Europe;33813760;Wetlands;Aquatic;Systematic review;63;20;Lack of  postimplementation monitoring;Barrier;15; Success assessment and evaluation
+11;Michelle Browne;2018;North America and Europe;33813760;Wetlands;Aquatic;Systematic review;63;20;Quantitative data of monitoring;Booster;15; Success assessment and evaluation
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Lack of integration of restoration costs into the activity that caused the degradation;Barrier;3; Economic costs of restoration
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Lack of institutional frameworks for ecosystem restoration;Barrier;4; Policies and governance
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Inadequate technology;Barrier;17; Instruments, technology and resources
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Lack of societal involvement;Barrier;5; Societal integration
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Lack of long-term funding;Barrier;18; Temporal scale of the restoration projects
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Weaknesses at monitoring and evaluating;Barrier;15; Success assessment and evaluation
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Inadequate scientifical knowledge of restoration failures ;Barrier;12; Methodological limitations
+13;R.P. Sapkota;2018;Not specified*;NA;Several;All kinds;Review;51;20;Lack of communication of success or failures;Barrier;12; Methodological limitations
+16;Tsipe Aavik;2017;Not specified*;NA;Forests;Terrestrial;Review;28;20;Introduction of genitically impoverished propagules;Barrier;14; Restoration techniques
+16;Tsipe Aavik;2017;Not specified*;NA;Forests;Terrestrial;Review;28;20;Presence of pollen and propagule vectors;Booster;24; Intrinsic biotic factors
+16;Tsipe Aavik;2017;Not specified*;NA;Forests;Terrestrial;Review;28;20;Lost of traditional grazing methods;Barrier;21; Ongoing degradation
+16;Tsipe Aavik;2017;Not specified*;NA;Forests;Terrestrial;Review;28;20;Creating wildflower strips or hedgerows in unsuitable matrix;Booster;14; Restoration techniques
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of coherence between the environmental and sectoral EU policies ;Barrier;4; Policies and governance
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of transparency and inhibitation of transversal cooperation from CFP;Barrier;4; Policies and governance
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of understanding of the impacts of Invasive Alien Species;Barrier;22; Invasive species 
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Multiplicity of criteria in relation with invasive species;Barrier;22; Invasive species 
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Non-deliberate introduction of invasive species;Barrier;22; Invasive species 
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of instruments to tackle aquatic litter and pollution;Barrier;17; Instruments, technology and resources
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of strong policy support to do restoration and deal with past alterations ;Barrier;4; Policies and governance
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Lack of instruments on current drivers (e.g. transport, energy) to tackle new morphological alterations ;Barrier;17; Instruments, technology and resources
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Limited range of instruments on state (e.g. water quantity);Barrier;17; Instruments, technology and resources
+20;Josselin Rouillard;2018;Europe;10180000;Several;Aquatic;Review;72;20;Unclear instruments to tackle drivers (e. g. promote less water intensive economic activities) ;Barrier;17; Instruments, technology and resources
+31;Yanjiao Ren;2017;China;9596961;Forests;Terrestrial;Meta-Analysis;172;20;Chosing of a reference site;Booster;16; Project planning and goal definition
+31;Yanjiao Ren;2017;China;9596961;Forests;Terrestrial;Meta-Analysis;172;20;Pasive restoration ;Booster;14; Restoration techniques
+31;Yanjiao Ren;2017;China;9596961;Forests;Terrestrial;Meta-Analysis;172;20;Limited funding and labour;Barrier;6; Funding
+31;Yanjiao Ren;2017;China;9596961;Forests;Terrestrial;Meta-Analysis;172;20;Mismatch between experimental scales and projects;Barrier;25; Spatial scale
+36;Lingfei Yu;2017;USA;9371174;Wetlands;Aquatic;Meta-Analysis;48;20;Lack of long-term data;Barrier;18; Temporal scale of the restoration projects
+36;Lingfei Yu;2017;USA;9371174;Wetlands;Aquatic;Meta-Analysis;48;20;Temperature;Booster;23; Intrinsic abiotic factors
+50;Robert L. France;2016;Iceland, Canada, USA, Australia;27200064;Several;All kinds;Review;42;20;Lack of clarity in setting objectives;Barrier;16; Project planning and goal definition
+50;Robert L. France;2016;Iceland, Canada, USA, Australia;27200064;Several;All kinds;Review;42;20;Lack of societal integration on adaptive management approaches;Barrier;5; Societal integration
+50;Robert L. France;2016;Iceland, Canada, USA, Australia;27200064;Several;All kinds;Review;42;20;No links between restoration, policies and society;Barrier;5; Societal integration
+50;Robert L. France;2016;Iceland, Canada, USA, Australia;27200064;Several;All kinds;Review;42;20;Location dependance;Booster;5; Societal integration
+50;Robert L. France;2016;Iceland, Canada, USA, Australia;27200064;Several;All kinds;Review;42;20;Lack of effectiveness of the governance;Barrier;4; Policies and governance
+51;Cristina Adams;2016;Global;54870139;Forests;Terrestrial;Review;46;20;Understimation of local knowledge;Barrier;5; Societal integration
+51;Cristina Adams;2016;Global;54870139;Forests;Terrestrial;Review;46;20;Land tenure;Booster;2; Land-tenure rights
+51;Cristina Adams;2016;Global;54870139;Forests;Terrestrial;Review;46;20;Bottom-up participatory initiatives;Booster;5; Societal integration
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Lack of runoff due to societal use of hydric resources;Barrier;21; Ongoing degradation
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Pollution of water;Barrier;21; Ongoing degradation
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Dikes and constructions;Barrier;21; Ongoing degradation
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Lack of natural elements in the river as branches in concrete watercourses;Barrier;21; Ongoing degradation
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Tourism impact on soil ;Barrier;21; Ongoing degradation
+56;Yonghua Zhu;2016;China;9596961;Rivers;Aquatic;Review;42;20;Agricultural activies;Barrier;21; Ongoing degradation
+72;Fang Chen;2016;China;9596961;Several;Terrestrial;Review;34;20;Economical cost;Barrier;3; Economic costs of restoration
+72;Fang Chen;2016;China;9596961;Several;Terrestrial;Review;34;20;Improvement of tailings sand fertility;Booster;14; Restoration techniques
+72;Fang Chen;2016;China;9596961;Several;Terrestrial;Review;34;20;Lack of funding;Barrier;6; Funding
+75;Rebecca Lave;2016;USA;9371174;Rivers;Aquatic;Review;20;20;Public participation;Booster;5; Societal integration
+75;Rebecca Lave;2016;USA;9371174;Rivers;Aquatic;Review;20;20;Colateral environmental injustice ;Barrier;5; Societal integration
+79;Ting-ting Jiang;2015;China;9596961;Wetlands;Oceanic;Review;28;20;Use of introduced species by prior restoration plans;Barrier;14; Restoration techniques
+79;Ting-ting Jiang;2015;China;9596961;Wetlands;Oceanic;Review;28;20;Complexity of development of a protection and management scheme ;Barrier;4; Policies and governance
+79;Ting-ting Jiang;2015;China;9596961;Wetlands;Oceanic;Review;28;20;Weaknesses of policies;Barrier;4; Policies and governance
+79;Ting-ting Jiang;2015;China;9596961;Wetlands;Oceanic;Review;28;20;Priority of economic growth;Barrier;4; Policies and governance
+79;Ting-ting Jiang;2015;China;9596961;Wetlands;Oceanic;Review;28;20;Poor quality of the pollution monitoring network;Barrier;15; Success assessment and evaluation
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Lack of needed infrastructure for genetics studies ;Barrier;8; Geographic bias
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Lack of knowledge about fauna genetics;Barrier;11; Knowledge on genetics
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Use of generalized guide-lines;Barrier;19; Context-specific factor consideration
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Lack of understanding of biodiversity-ecosystem services-genetics relation;Barrier;11; Knowledge on genetics
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Choosing a suitable donor population;Booster;11; Knowledge on genetics
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Baseline data for monitoring;Booster;15; Success assessment and evaluation
+88;Jose Luis Mijangos;2015;North America and Australia;31374980;Several;All kinds;Meta-Analysis;160;20;Lack of awareness of genetics in ecosystem restoration;Barrier;11; Knowledge on genetics
+92;Miltiadis Zamparas;2014;The Netherlands, UK, Australia Occidental, New Zealand, Germany, Washington State (USA), Alberta (Canada);4402336;Lakes;Aquatic;Review;16;20;Considerable disadvantages of biochemical techniques;Barrier;14; Restoration techniques
+92;Miltiadis Zamparas;2014;The Netherlands, UK, Australia Occidental, New Zealand, Germany, Washington State (USA), Alberta (Canada);4402336;Lakes;Aquatic;Review;16;20;Confounding effects between P and N control ;Barrier;14; Restoration techniques
+92;Miltiadis Zamparas;2014;The Netherlands, UK, Australia Occidental, New Zealand, Germany, Washington State (USA), Alberta (Canada);4402336;Lakes;Aquatic;Review;16;20;Lack of consideration of diffuse pollution sources;Barrier;25; Spatial scale
+92;Miltiadis Zamparas;2014;The Netherlands, UK, Australia Occidental, New Zealand, Germany, Washington State (USA), Alberta (Canada);4402336;Lakes;Aquatic;Review;16;20;Lack of long-term effects knowledge;Barrier;18; Temporal scale of the restoration projects
+99;Lauren E. Parry;2013;United Kingdom;243610;Wetlands;Aquatic;Review;50;20;Climatic factors that limit revegetation;Barrier;23; Intrinsic abiotic factors
+99;Lauren E. Parry;2013;United Kingdom;243610;Wetlands;Aquatic;Review;50;20;Understanding peak flow response is complex;Barrier;10; Knowledge on ecosystem structure and function
+103;Pascal Jouquet;2014;UK, Vietnam, The Netherlands, Japan, Sweden, Australia;9186115;Several;Terrestrial;Review;55;20;Limitations of the abiotic requirements of the earthworms;Barrier;14; Restoration techniques
+103;Pascal Jouquet;2014;UK, Vietnam, The Netherlands, Japan, Sweden, Australia;9186115;Several;Terrestrial;Review;55;20;Excessive labour requirements of techniques;Barrier;6; Funding
+103;Pascal Jouquet;2014;UK, Vietnam, The Netherlands, Japan, Sweden, Australia;9186115;Several;Terrestrial;Review;55;20;Lack of field study;Barrier;12; Methodological limitations
+120;Yadav Uprety;2012;New Zeland, Tanzania, Philippines, México, Canada, Nepal, African Sahel, China, Thailand, India, Belize, Cameroon;30559986;Several;All kinds;Review;23;20;Incoporation of traditional knowledge;Booster;5; Societal integration
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;57;20;Landscape scale disturbances;Barrier;25; Spatial scale
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;57;20;Inadequate application of the buffer strip technique;Barrier;14; Restoration techniques
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;57;20;Lack of sufficient time for recovery. ;Barrier;18; Temporal scale of the restoration projects
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;57;20;Legacy of land use;Barrier;20;Historical land-use
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;75;20;Inappropriate scaling of restoration;Barrier;25; Spatial scale
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;75;20;Inappropriate timing of monitoring;Barrier;18; Temporal scale of the restoration projects
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;75;20;Inappropriate indicators and indicator groups;Barrier;15; Success assessment and evaluation
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;75;20;Presence of multiple pressures not addressed by restoration;Barrier;19; Context-specific factor consideration
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;75;20;Complexity of processes;Barrier;10; Knowledge on ecosystem structure and function
+128;Christian K. Feld;2011;North America and Europe;33813760;Rivers;Aquatic;Review;31;20;Geomorphological degradation caused by dams;Barrier;21; Ongoing degradation
+130;Katharine N. Suding;2011;Global;54870139;Several;All kinds;Review;130;20;Limited monitoring;Barrier;15; Success assessment and evaluation
+130;Katharine N. Suding;2011;Global;54870139;Several;All kinds;Review;100;20;Limited access to monitoring data;Barrier;9; Integration of existing scientific knowledge 
+130;Katharine N. Suding;2011;Global;54870139;Several;All kinds;Review;100;20;Little consensus on standard evaluation criteria;Barrier;9; Integration of existing scientific knowledge 
+130;Katharine N. Suding;2011;Global;54870139;Several;All kinds;Review;130;20;Spatial and temporal variability;Barrier;18; Temporal scale of the restoration projects
+130;Katharine N. Suding;2011;Global;54870139;Several;All kinds;Review;130;20;Historical and landscape factors;Barrier;20;Historical land-use
+135;Jeffrey W. Matthews;2009;Illinois, USA;149998;Wetlands;Aquatic;Review;50;20;Invasive species;Barrier;22; Invasive species 
+135;Jeffrey W. Matthews;2009;Illinois, USA;149998;Wetlands;Aquatic;Review;50;20;Nonnative species competition;Barrier;24; Intrinsic biotic factors
+135;Jeffrey W. Matthews;2009;Illinois, USA;149998;Wetlands;Aquatic;Review;50;20;Propagule limitation;Barrier;24; Intrinsic biotic factors
+135;Jeffrey W. Matthews;2009;Illinois, USA;149998;Wetlands;Aquatic;Review;50;20;Use of multiple reference sites;Booster;16; Project planning and goal definition
+135;Jeffrey W. Matthews;2009;Illinois, USA;149998;Wetlands;Aquatic;Review;50;20;Extrapolation from site-specific context to broad scale situations;Barrier;25; Spatial scale
+138;Adele M. Reid;2009;Australia;7741220;Several;Terrestrial;Review;95;20;Qualitative evaluation method;Barrier;15; Success assessment and evaluation
+138;Adele M. Reid;2009;Australia;7741220;Several;Terrestrial;Review;95;20;Evaluation during and after weed management program;Booster;15; Success assessment and evaluation
+138;Adele M. Reid;2009;Australia;7741220;Several;Terrestrial;Review;95;20;Setting realistic and achievable goal ;Booster;16; Project planning and goal definition
+138;Adele M. Reid;2009;Australia;7741220;Several;Terrestrial;Review;95;20;Colaboration between weed managers and restoration experts;Booster;9; Integration of existing scientific knowledge 
+140;Luzhen Chen;2009;China;9596961;Wetlands;Aquatic;Review;26;20;Pollution upstream;Barrier;25; Spatial scale
+140;Luzhen Chen;2009;China;9596961;Wetlands;Aquatic;Review;26;20;Use of introduced species by prior restoration plans;Barrier;14; Restoration techniques
+140;Luzhen Chen;2009;China;9596961;Wetlands;Aquatic;Review;26;20;Use of mono-species mangroves;Barrier;11; Knowledge on genetics
+140;Luzhen Chen;2009;China;9596961;Wetlands;Aquatic;Review;26;20;Lack of standardized evaluation method;Barrier;15; Success assessment and evaluation
+140;Luzhen Chen;2009;China;9596961;Wetlands;Aquatic;Review;26;20;International cooperation;Booster;4; Policies and governance
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Floating green algae;Barrier;24; Intrinsic biotic factors
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Low water dynamics;Booster;23; Intrinsic abiotic factors
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Lack of knowledge of structure;Barrier;10; Knowledge on ecosystem structure and function
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Isolation by distance;Barrier;24; Intrinsic biotic factors
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Transplantig from locations that are environmentally similar ;Booster;14; Restoration techniques
+142;M.M. van Katwijk;2009;The Netherlands, Germany and Denmark;441981;Marine;Oceanic;Review;46;20;Spreading of risk;Booster;14; Restoration techniques
+152;Charles Simenstad;2006;Pacific and Gulf coasts;1990821;Wetlands;Aquatic;Review;45;20;Lack of integration of natural fluctuations and disturbances;Barrier;19; Context-specific factor consideration
+152;Charles Simenstad;2006;Pacific and Gulf coasts;1990821;Wetlands;Aquatic;Review;45;20;Landscape scale;Booster;25; Spatial scale
+152;Charles Simenstad;2006;Pacific and Gulf coasts;1990821;Wetlands;Aquatic;Review;45;20;Dams upstream;Barrier;21; Ongoing degradation
+152;Charles Simenstad;2006;Pacific and Gulf coasts;1990821;Wetlands;Aquatic;Review;45;20;Restricted sources of flora near to the restoration site;Barrier;24; Intrinsic biotic factors
+152;Charles Simenstad;2006;Pacific and Gulf coasts;1990821;Wetlands;Aquatic;Review;45;20;High exposure of ecosystem engineers;Barrier;24; Intrinsic biotic factors
+154;Maria C. Ruíz-Jaen;2005;North America, Australia ;31374980;Forests;Terrestrial;Systematic Review;468;20;Lack of legislation requirements. ;Barrier;4; Policies and governance
+154;Maria C. Ruíz-Jaen;2005;North America, Australia ;31374980;Forests;Terrestrial;Systematic Review;468;20;Economical cost;Barrier;3; Economic costs of restoration
+154;Maria C. Ruíz-Jaen;2005;North America, Australia ;31374980;Forests;Terrestrial;Systematic Review;468;20;Temporal scale of the project;Barrier;18; Temporal scale of the restoration projects
+154;Maria C. Ruíz-Jaen;2005;North America, Australia ;31374980;Forests;Terrestrial;Systematic Review;468;20;Lack of long-term monitoring and data collection;Barrier;18; Temporal scale of the restoration projects
+122;David Moreno-Mateos;2012;Global;54870139;Wetlands;Aquatic;Meta-Analysis;124;21;Seedling sensitive in early stages;Barrier;24; Intrinsic biotic factors
+122;David Moreno-Mateos;2012;Global;54870139;Wetlands;Aquatic;Meta-Analysis;124;21;Dispersal limitation ;Barrier;24; Intrinsic biotic factors
+122;David Moreno-Mateos;2012;Global;54870139;Wetlands;Aquatic;Meta-Analysis;124;21;Spatial scale;Booster;25; Spatial scale
+122;David Moreno-Mateos;2012;Global;54870139;Wetlands;Aquatic;Meta-Analysis;124;21;Regional climate;Booster;23; Intrinsic abiotic factors
+77;David Moreno-Mateos;2015;Quebec, Kenya, USA;11493597;Wetlands;Aquatic;Meta-Analysis;115;24;Invasive species;Barrier;22; Invasive species 
+77;David Moreno-Mateos;2015;Quebec, Kenya, USA;11493597;Wetlands;Aquatic;Meta-Analysis;115;24;Climatic events;Barrier;23; Intrinsic abiotic factors
+77;David Moreno-Mateos;2015;Quebec, Kenya, USA;11493597;Wetlands;Aquatic;Meta-Analysis;115;24;Legacy of land use;Barrier;20;Historical land-use
+77;David Moreno-Mateos;2015;Quebec, Kenya, USA;11493597;Wetlands;Aquatic;Meta-Analysis;115;24;Economical costs;Barrier;3; Economic costs of restoration
+77;David Moreno-Mateos;2015;Quebec, Kenya, USA;11493597;Wetlands;Aquatic;Meta-Analysis;115;24;Recover of basic physical setting;Booster;14; Restoration techniques
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Lack of integration of site-specific abitotic characteristics;Barrier;19; Context-specific factor consideration
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Integration of ancient knowledge in modern practises;Booster;5; Societal integration
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Increasing of grazing (negative cycle between grazing and policies);Barrier;4; Policies and governance
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Watershed consquences;Barrier;25; Spatial scale
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Lack of payment for ecosystem services;Barrier;7; Payment for ecosystem services
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Lack of direct benefits for local communities;Barrier;5; Societal integration
+39;Theib Y. Oweis;2016;Middle East;7207575;Arid zones;Terrestrial;Review;50;25;Land tenure;Barrier;2; Land-tenure rights
+40;Cecilia Smith Ramírez;2017;Islands (Global);4331979.737;Forests;Terrestrial;Review;28;25;Lack of research on chemical control method application;Barrier;13; Research about restoration practices
+40;Cecilia Smith Ramírez;2017;Islands (Global);4331979.737;Forests;Terrestrial;Review;28;25;Use of pollutants substances;Barrier;14; Restoration techniques
+40;Cecilia Smith Ramírez;2017;Islands (Global);4331979.737;Forests;Terrestrial;Review;28;25;Economical costs;Barrier;3; Economic costs of restoration
+43;Roxane Andersen;2016;Western Europe;1514993;Wetlands;Aquatic;Review;69;25;Economical costs;Barrier;3; Economic costs of restoration
+43;Roxane Andersen;2016;Western Europe;1514993;Wetlands;Aquatic;Review;69;25;Establishing of worth while-goals based on knowledge;Booster;9; Integration of existing scientific knowledge 
+43;Roxane Andersen;2016;Western Europe;1514993;Wetlands;Aquatic;Review;69;25;Continuation of the degradation cause;Barrier;21; Ongoing degradation
+44;Rodney A. Chimney;2016;North America;23633760;Wetlands;Aquatic;Review;34;25;Lack of knowledge of dynamics;Barrier;10; Knowledge on ecosystem structure and function
+44;Rodney A. Chimney;2016;North America;23633760;Wetlands;Aquatic;Review;34;25;Lack of integration of restored elements with the non-degraded ones in peatlands;Barrier;14; Restoration techniques
+46;Paula Meli;2017;Global;54870139;Forests;Terrestrial;Meta-Analysis;166;25;Legacy of land use;Barrier;20;Historical land-use
+46;Paula Meli;2017;Global;54870139;Forests;Terrestrial;Meta-Analysis;166;25;Stochastical characterisitics of passive restoration;Barrier;15; Success assessment and evaluation
+46;Paula Meli;2017;Global;54870139;Forests;Terrestrial;Meta-Analysis;166;25;Lofty goals setting;Barrier;16; Project planning and goal definition
+46;Paula Meli;2017;Global;54870139;Forests;Terrestrial;Meta-Analysis;166;25;Research gaps in the comparission of pasive and active restoration;Barrier;13; Research about restoration practices
+68;Clive McAlpine;2016;South Australia, Mexico;3007889;Several;Terrestrial;Review;47;25;Temporal scale;Booster;18; Temporal scale of the restoration projects
+68;Clive McAlpine;2016;South Australia, Mexico;3007889;Several;Terrestrial;Review;47;25;Different spatial scales perspectives for plants and animals;Barrier;25; Spatial scale
+78;Sean C. Thomas;2015;Indonesia, Zambia, Tasmania, Nigeria, Singapore, Finland, Japan, USA, Spain, Sweden, Australia, Canada, Laos;32655642;Forests;Terrestrial;Meta-Analysis;17;25;Limited experimental reproducibility potential;Barrier;12; Methodological limitations
+78;Sean C. Thomas;2015;Indonesia, Zambia, Tasmania, Nigeria, Singapore, Finland, Japan, USA, Spain, Sweden, Australia, Canada, Laos;32655642;Forests;Terrestrial;Meta-Analysis;17;25;Reduction of availability of N during biochar use;Barrier;14; Restoration techniques
+82;Mia R. Maltz;2015;North America;23633760;Several;Terrestrial;Meta-Analysis;22;25;Mycorrhizal inoculation;Booster;14; Restoration techniques
+82;Mia R. Maltz;2015;North America;23633760;Several;Terrestrial;Meta-Analysis;22;25;Fungal inoculum from reference site;Booster;14; Restoration techniques
+82;Mia R. Maltz;2015;North America;23633760;Several;Terrestrial;Meta-Analysis;22;25;Use of exotic/commercial mycorrhizal inoculums;Barrier;14; Restoration techniques
+82;Mia R. Maltz;2015;North America;23633760;Several;Terrestrial;Meta-Analysis;22;25;Lack of research in tropical areas;Barrier;8; Geographic bias
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea, South Africa;38586080;Rivers;Aquatic;Review;169;25;Limited dismantling of dams and levees;Barrier;21; Ongoing degradation
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Limited dispersal of target-species;Barrier;24; Intrinsic biotic factors
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Paucity of soil seed bank;Barrier;20;Historical land-use
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of landscape scale evaluation ;Barrier;25; Spatial scale
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of long-term monitoring;Barrier;18; Temporal scale of the restoration projects
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of reference site basis use;Barrier;16; Project planning and goal definition
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of scientific resources production (hypothesis, understanding of processes);Barrier;12; Methodological limitations
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of statistical analysis;Barrier;12; Methodological limitations
+85;Eduardo González;2015;USA, China, Europe, Australia, Japan, South Korea;38586080;Rivers;Aquatic;Review;169;25;Lack of reported fails;Barrier;12; Methodological limitations
+90;Eric Higgs;2014;Not specified*;NA;Several;All kinds;Review;59;25;Historical knowledge;Booster;10; Knowledge on ecosystem structure and function
+133;Hiromi Yamagawa;2010;Japan;377915;Forests;Terrestrial;Review;60;25;Logging roads;Barrier;21; Ongoing degradation
+133;Hiromi Yamagawa;2010;Japan;377915;Forests;Terrestrial;Review;60;25;Hervibores;Barrier;24; Intrinsic biotic factors
+133;Hiromi Yamagawa;2010;Japan;377915;Forests;Terrestrial;Review;60;25;Interspecific competition;Barrier;24; Intrinsic biotic factors
+133;Hiromi Yamagawa;2010;Japan;377915;Forests;Terrestrial;Review;60;25;Prior land use;Barrier;20;Historical land-use
+139;Jose M. Rey Benayas;2009;Global;54870139;Several;All kinds;Meta-Analysis;89;25;Temporal scale ;Booster;18; Temporal scale of the restoration projects
+149;John M. Koch;2007;Alcoa Mine (Huntly Bauxite), Western Australia;2645615;Forests;Terrestrial;Review;27;25;Soil compactation overcome;Booster;14; Restoration techniques
+149;John M. Koch;2007;Alcoa Mine (Huntly Bauxite), Western Australia;2645615;Forests;Terrestrial;Review;27;25;Long-term processes;Barrier;18; Temporal scale of the restoration projects
+149;John M. Koch;2007;Alcoa Mine (Huntly Bauxite), Western Australia;2645615;Forests;Terrestrial;Review;27;25;Subjective evaluation method;Barrier;15; Success assessment and evaluation
+158;C. Lavoie;2003;Minnesota (USA),  Ontario (Canada), Quebec (Canada), Ireland, France, United kingdom, Sweden, Finland, Switzerland;4631023;Wetlands;Aquatic;Review;28;25;Type of peatland exploitation;Booster;21; Ongoing degradation
+158;C. Lavoie;2003;Minnesota (USA),  Ontario (Canada), Quebec (Canada), Ireland, France, United kingdom, Sweden, Finland, Switzerland;4631023;Wetlands;Aquatic;Review;28;25;Frost heaving;Barrier;23; Intrinsic abiotic factors
+158;C. Lavoie;2003;Minnesota (USA),  Ontario (Canada), Quebec (Canada), Ireland, France, United kingdom, Sweden, Finland, Switzerland;4631023;Wetlands;Aquatic;Review;28;25;Low dispersal abilities of bog plants;Barrier;24; Intrinsic biotic factors
+158;C. Lavoie;2003;Minnesota (USA),  Ontario (Canada), Quebec (Canada), Ireland, France, United kingdom, Sweden, Finland, Switzerland;4631023;Wetlands;Aquatic;Review;28;25;Cotton-grass tussocks creates microclima;Booster;24; Intrinsic biotic factors
+160;Ramesh D. Gulati;2002;The Netherlands;41865;Lakes;Aquatic;Review;100;25;Planktivorous and benthivorous fish high activity;Barrier;24; Intrinsic biotic factors
+160;Ramesh D. Gulati;2002;The Netherlands;41865;Lakes;Aquatic;Review;100;25;Macrophytes pressence;Booster;24; Intrinsic biotic factors
+160;Ramesh D. Gulati;2002;The Netherlands;41865;Lakes;Aquatic;Review;100;25;Biomanipulation;Booster;14; Restoration techniques
+3;Carolina Y. Shimamoto;2018;Global (Tropical forests);17282475;Forests;Terrestrial;Meta-Analysis;69;30;Passive restoration;Booster;14; Restoration techniques
+3;Carolina Y. Shimamoto;2018;Global (Tropical forests);17282475;Forests;Terrestrial;Meta-Analysis;69;30;Use of exotic species;Barrier;14; Restoration techniques
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Long-term monitoring ;Booster;18; Temporal scale of the restoration projects
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Economical costs of monitoring;Barrier;3; Economic costs of restoration
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Temporal scale;Booster;18; Temporal scale of the restoration projects
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Lack of research and documentation of projects;Barrier;13; Research about restoration practices
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Limited application of remote sensing;Barrier;15; Success assessment and evaluation
+7;Sophie Taddeo;2018;North America;23633760;Wetlands;Aquatic;Review;99;30;Reproducible approachs development for monitoring;Booster;15; Success assessment and evaluation
+25;Kristin B. Hulvey;2017;Western USA;4535602;Arid zones;Terrestrial;Review;100;30;Invasive species;Barrier;22; Invasive species 
+25;Kristin B. Hulvey;2017;Western USA;4535602;Arid zones;Terrestrial;Review;100;30;Adding species with resource-use traits similar to potential invaders;Booster;14; Restoration techniques
+25;Kristin B. Hulvey;2017;Western USA;4535602;Arid zones;Terrestrial;Review;100;30;Low economical costs;Booster;3; Economic costs of restoration
+25;Kristin B. Hulvey;2017;Western USA;4535602;Arid zones;Terrestrial;Review;100;30;Livestock grazing;Barrier;21; Ongoing degradation
+25;Kristin B. Hulvey;2017;Western USA;4535602;Arid zones;Terrestrial;Review;100;30;Specific allocation of island to minimize abiotic constraints variability ;Booster;14; Restoration techniques
+26;Jian Hu;2017;China;9596961;Several;Terrestrial;Meta-Analysis;43;30;Land use (vegetation type);Booster;21; Ongoing degradation
+27;Paula Gatica-Saavedra;2017;Global;54870139;Forests;Terrestrial;Review;94;30;High variability among regions in the number of assessment project;Barrier;8; Geographic bias
+27;Paula Gatica-Saavedra;2017;Global;54870139;Forests;Terrestrial;Review;94;30;High cost of indicators;Barrier;3; Economic costs of restoration
+27;Paula Gatica-Saavedra;2017;Global;54870139;Forests;Terrestrial;Review;94;30;Difficult measurability of indicators;Barrier;15; Success assessment and evaluation
+27;Paula Gatica-Saavedra;2017;Global;54870139;Forests;Terrestrial;Review;94;30;Complex and expensive indicators of recovery;Barrier;15; Success assessment and evaluation
+27;Paula Gatica-Saavedra;2017;Global;54870139;Forests;Terrestrial;Review;94;30;Small number of indicators used;Barrier;15; Success assessment and evaluation
+34;Edward P. Glenn;2017;China, USA, Australia;26709355;Rivers;Aquatic;Review;77;30;Drought of dry years;Barrier;23; Intrinsic abiotic factors
+34;Edward P. Glenn;2017;China, USA, Australia;26709355;Rivers;Aquatic;Review;77;30;Agricultural inflows;Barrier;21; Ongoing degradation
+34;Edward P. Glenn;2017;China, USA, Australia;26709355;Rivers;Aquatic;Review;77;30;Dikes and constructions upstream;Barrier;21; Ongoing degradation
+34;Edward P. Glenn;2017;China, USA, Australia;26709355;Rivers;Aquatic;Review;77;30;Disruption of the soil biological crust by grazing animals and tourism;Barrier;21; Ongoing degradation
+34;Edward P. Glenn;2017;China, USA, Australia;26709355;Rivers;Aquatic;Review;77;30;Non-target plant species recruitment;Barrier;24; Intrinsic biotic factors
+41;Md Sayed Iftekhar;2016;USA, Wales;9614784;Several;All kinds; Review;60;30;Lack of tools to asses social benefits;Barrier;15; Success assessment and evaluation
+41;Md Sayed Iftekhar;2016;USA, Wales;9614784;Several;All kinds;Review;60;30;Lack of reporting of standardized methods to collect restoration costs;Barrier;12; Methodological limitations
+41;Md Sayed Iftekhar;2016;USA, Wales;9614784;Several;All kinds; Review;60;30;Lack of long-term financing;Barrier;18; Temporal scale of the restoration projects
+55;Lucy A. McKergow;2016;New Zealand;267710;Rivers;Aquatic;Review;51;30;Identification of goals by communities and landowners;Booster;5; Societal integration
+55;Lucy A. McKergow;2016;New Zealand;267710;Rivers;Aquatic;Review;51;30;Buffer placement, length and width ;Booster;14; Restoration techniques
+55;Lucy A. McKergow;2016;New Zealand;267710;Rivers;Aquatic;Review;51;30;Temporal scale;Booster;18; Temporal scale of the restoration projects
+57;Olga A. Kildisheva;2016;Australia, Western USA, Tanzania, Ethiopia;14328422;Arid zones;Terrestrial;Review;68;30;Economical costs;Barrier;3; Economic costs of restoration
+57;Olga A. Kildisheva;2016;Australia, Western USA, Tanzania, Ethiopia;14328422;Arid zones;Terrestrial;Review;68;30;Limited or variable seed supply;Barrier;17; Instruments, technology and resources
+57;Olga A. Kildisheva;2016;Australia, Western USA, Tanzania, Ethiopia;14328422;Arid zones;Terrestrial;Review;68;30;Seed farming  of native grasses role;Booster;14; Restoration techniques
+57;Olga A. Kildisheva;2016;Australia, Western USA, Tanzania, Ethiopia;14328422;Arid zones;Terrestrial;Review;68;30;Low seed establishment;Barrier;14; Restoration techniques
+57;Olga A. Kildisheva;2016;Australia, Western USA, Tanzania, Ethiopia;14328422;Arid zones;Terrestrial;Review;68;30;Lack of biological and technical knowledge of seed germination biology;Barrier;10; Knowledge on ecosystem structure and function
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;Ongoing external P loading;Barrier;21; Ongoing degradation
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;Short water retention time;Barrier;23; Intrinsic abiotic factors
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;Heavy winds consquences;Barrier;23; Intrinsic abiotic factors
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;High population of planktivorous and benthivorous fish;Barrier;24; Intrinsic biotic factors
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;Invasive crayfish ;Barrier;22; Invasive species 
+67;Elisabeth S. Bakker;2015;England, The Netherlands, Germany;642497;Lakes;Aquatic;Review;15;30;Type of lake;Booster;23; Intrinsic abiotic factors
+71;Eduardo A. C. Constantini;2016;Mediterranean area(Spain, Italy, Greece);938667;Arid zones;Terrestrial;Review;50;30; Choice of plants or practices that are not suited to the site;Barrier;19; Context-specific factor consideration
+71;Eduardo A. C. Constantini;2016;Mediterranean area(Spain, Italy, Greece);938667;Arid zones;Terrestrial;Review;50;30;Detailed knowledge of interactions and processess;Booster;10; Knowledge on ecosystem structure and function
+71;Eduardo A. C. Constantini;2016;Mediterranean area(Spain, Italy, Greece);938667;Arid zones;Terrestrial;Review;50;30;Hard selection of suitable plant species;Barrier;14; Restoration techniques
+71;Eduardo A. C. Constantini;2016;Mediterranean area(Spain, Italy, Greece);938667;Arid zones;Terrestrial;Review;50;30;SOM presence;Booster;24; Intrinsic biotic factors
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Clearly stated goals;Booster;16; Project planning and goal definition
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Technological development;Booster;17; Instruments, technology and resources
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Recover of fauna roles;Booster;14; Restoration techniques
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Lack of field study research;Barrier;12; Methodological limitations
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Complexity of trophic networks;Barrier;24; Intrinsic biotic factors
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Lack of landscape scale perspective;Barrier;25; Spatial scale
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Cost-effectiveness;Booster;15; Success assessment and evaluation
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Lack of integration of society;Barrier;5; Societal integration
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Lack of integration of researchers and practitioners;Barrier;9; Integration of existing scientific knowledge 
+84;Michael P. Perring;2015;Global;54870139;Several;All kinds;Review;200;30;Lack of context-dependency understanding;Barrier;19; Context-specific factor consideration
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Lack of knowledge of biology, phenology and propagation;Barrier;10; Knowledge on ecosystem structure and function
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Appropiate sources of Forest Reproductive Material;Booster;11; Knowledge on genetics
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Lack of genetic data;Barrier;11; Knowledge on genetics
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Connectivity and gene flow;Booster;11; Knowledge on genetics
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Lack of awareness of genetics in ecosystem restoration;Barrier;11; Knowledge on genetics
+89;Evert Thomas;2014;Latin America;22222000;Forests;Terrestrial;Review;110;30;Economical costs;Barrier;3; Economic costs of restoration
+106;D. Lithgow;2013;USA, Mexico, Netherlands, France, Spain, Portugal, UK, Denmark, Italy, Belgium, South Africa, Namibia, New Zealand, Israel;15278760;Coastal dunes;Terrestrial;Review;67;30;Lack of structure data ;Barrier;10; Knowledge on ecosystem structure and function
+106;D. Lithgow;2013;USA, Mexico, Netherlands, France, Spain, Portugal, UK, Denmark, Italy, Belgium, South Africa, Namibia, New Zealand, Israel;15278760;Coastal dunes;Terrestrial;Review;67;30;Restoration projects short-timeframe;Barrier;18; Temporal scale of the restoration projects
+106;D. Lithgow;2013;USA, Mexico, Netherlands, France, Spain, Portugal, UK, Denmark, Italy, Belgium, South Africa, Namibia, New Zealand, Israel;15278760;Coastal dunes;Terrestrial;Review;67;30;Lack of enough number of reference sites;Barrier;16; Project planning and goal definition
+106;D. Lithgow;2013;USA, Mexico, Netherlands, France, Spain, Portugal, UK, Denmark, Italy, Belgium, South Africa, Namibia, New Zealand, Israel;15278760;Coastal dunes;Terrestrial;Review;67;30;Limited published scientific resources ;Barrier;9; Integration of existing scientific knowledge 
+107;Liana Wortley;2013;North America ;23633760;Several;All kinds;Review;301;30;Mismatch between level of degradation and restoration realization;Barrier;8; Geographic bias
+107;Liana Wortley;2013;North America;23633760;Several;All kinds;Review;301;30;Lack of economical measures;Barrier;1; Socioeconomic knowledge
+129;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;50;30;Underconsideration of several factors during reforestation program;Barrier;16; Project planning and goal definition
+129;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;50;30;Bad plannification of the reforestation project;Barrier;16; Project planning and goal definition
+129;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;50;30;Lack of economical support from the central government ;Barrier;6; Funding
+129;Shixiong Cao;2011;China;9596961;Arid zones;Terrestrial;Review;50;30;Low payment availability to reduce poverty ;Barrier;7; Payment for ecosystem services
+137;Lawrence R. Walker;2009;Tanzania, Malaysia, Puerto Rico, British Columbia, Jamaica, New Hampshire (USA),  Oregon (USA), Japan, Mexico;4843506;Several;Terrestrial;Review;40;30;No modification of landslide slope;Barrier;14; Restoration techniques
+137;Lawrence R. Walker;2009;Tanzania, Malaysia, Puerto Rico, British Columbia, Jamaica, New Hampshire (USA),  Oregon (USA), Japan, Mexico;4843506;Several;Terrestrial;Review;40;30;Size and shape of landslide;Booster;14; Restoration techniques
+137;Lawrence R. Walker;2009;Tanzania, Malaysia, Puerto Rico, British Columbia, Jamaica, New Hampshire (USA),  Oregon (USA), Japan, Mexico;4843506;Several;Terrestrial;Review;40;30;Germination and growth requirements;Barrier;24; Intrinsic biotic factors
+137;Lawrence R. Walker;2009;Tanzania, Malaysia, Puerto Rico, British Columbia, Jamaica, New Hampshire (USA),  Oregon (USA), Japan, Mexico;4843506;Several;Terrestrial;Review;40;30;Lack of long-term assesing;Barrier;18; Temporal scale of the restoration projects
+150;Jonathan D. Majer;2007;Alcoa Mine (Huntly Bauxite), Western Australia;2645615;Several;Terrestrial;Review;20;30;Invertebrates as indicators of success;Booster;15; Success assessment and evaluation
+161;Philip Rony, T. ;2002;Pacific Northwest;863443;Rivers;Aquatic;Review;50;30;Lack of monitoring;Barrier;15; Success assessment and evaluation
+9;Donna J. Belder;2018;Australia;7741220;Forests;Terrestrial;Review;40;34;Lack of work about nest predation;Barrier;10; Knowledge on ecosystem structure and function
+9;Donna J. Belder;2018;Australia;7741220;Forests;Terrestrial;Review;40;34;Lack of knowledge about nesting in restoration plantings;Barrier;13; Research about restoration practices
+9;Donna J. Belder;2018;Australia;7741220;Forests;Terrestrial;Review;40;34;No knowledge about brood parasitism;Barrier;10; Knowledge on ecosystem structure and function
+2;Victoria Reyes-García;2019;Global;54870139;Several;All kinds;Review;120;35;Indigeneous people and local community role;Booster;5; Societal integration
+2;Victoria Reyes-García;2019;Global;54870139;Several;All kinds;Review;121;35;Neglecting of local knowledge;Barrier;5; Societal integration
+2;Victoria Reyes-García;2019;Global;54870139;Several;All kinds;Review;121;35;Top-down planning;Barrier;5; Societal integration
+5;Wei Sun ;2018;Spain, China, Arizona (USA), Odisha (India);10553584;Several;Terrestrial;Review;35;35;Pressence of heavy metal in mining soils;Barrier;20;Historical land-use
+5;Wei Sun ;2018;Spain, China, Arizona (USA), Odisha (India);10553584;Several;Terrestrial;Review;35;35;Sinergies between acidification and H.metal toxicity;Barrier;20;Historical land-use
+5;Wei Sun ;2018;Spain, China, Arizona (USA), Odisha (India);10553584;Several;Terrestrial;Review;35;35;Removal of salt;Booster;14; Restoration techniques
+5;Wei Sun ;2018;Spain, China, Arizona (USA), Odisha (India);10553584;Several;Terrestrial;Review;35;35;Tailings qualities hamper revegetation possibilities;Barrier;20;Historical land-use
+6;Jason N. James;2018;Western North America;11816880;Forests;Terrestrial;Systematic review;73;35;Uncertainity of models to long-term restoration;Barrier;18; Temporal scale of the restoration projects
+6;Jason N. James;2018;Western North America;11816880;Forests;Terrestrial;Systematic review;73;35;Underrepresented and insufficient soil sampling;Barrier;12; Methodological limitations
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Lack of stakeholders engagement;Booster;5; Societal integration
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Identifying the appropriate scale intervention;Booster;25; Spatial scale
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Site-specific interventions;Booster;19; Context-specific factor consideration
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Clear and secure tenure rights;Booster;2; Land-tenure rights
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Inappropiate definition of restoration program goals;Barrier;16; Project planning and goal definition
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Inability at contextualizing mechanisms to local ecological conditions ;Barrier;16; Project planning and goal definition
+17;Ida Nadia S. Djenontin;2018;Sub-Saharian Africa;18276965;Forests;Terrestrial;Review;35;35;Lack of communication, realization and application of scientifical knowledge;Barrier;9; Integration of existing scientific knowledge 
+22;Mélanie Harzé;2018;North America and Europe;33813760;Grasslands;Terrestrial;Systematic review;141;35;Lack of population traits evaluation;Barrier;15; Success assessment and evaluation
+22;Mélanie Harzé;2018;North America and Europe;33813760;Grasslands;Terrestrial;Systematic review;141;35;Demographic processess poorly studied;Barrier;13; Research about restoration practices
+22;Mélanie Harzé;2018;North America and Europe;33813760;Grasslands;Terrestrial;Systematic review;141;35;Lack of genetic structure research;Barrier;11; Knowledge on genetics
+64;Tamara A. Newcomer Johnson;2016;Europe and USA;19551174;Rivers;Aquatic;Review;79;35;Lack of understanding of structure and function;Barrier;10; Knowledge on ecosystem structure and function
+64;Tamara A. Newcomer Johnson;2016;Europe and USA;19551174;Rivers;Aquatic;Review;79;35;Addition of elements to obstruct water flow;Booster;14; Restoration techniques
+64;Tamara A. Newcomer Johnson;2016;Europe and USA;19551174;Rivers;Aquatic;Review;79;35;Considering four dimension of stream network;Booster;10; Knowledge on ecosystem structure and function
+64;Tamara A. Newcomer Johnson;2016;Europe and USA;19551174;Rivers;Aquatic;Review;79;35;Lack of long-term monitoring;Barrier;18; Temporal scale of the restoration projects
+64;Tamara A. Newcomer Johnson;2016;Europe and USA;19551174;Rivers;Aquatic;Review;79;35;Lack of sampling through variety of states;Barrier;12; Methodological limitations
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Definition of expectations;Booster;16; Project planning and goal definition
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Inappropiate definition of endpoints;Barrier;16; Project planning and goal definition
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Inappropiate monitoring program;Barrier;15; Success assessment and evaluation
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Selection of indicators of success;Barrier;15; Success assessment and evaluation
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Complexity of tenure;Barrier;2; Land-tenure rights
+91;John A. Stanturf;2014;Global;54870139;Several;All kinds;Review;380;35;Lack of social capital;Barrier;5; Societal integration
+108;Joachim Pander;2013;North America and Europe;33813760;Rivers;Aquatic;Review;45;35;Lack of systematic and target-oriented evaluation;Barrier;15; Success assessment and evaluation
+108;Joachim Pander;2013;North America and Europe;33813760;Rivers;Aquatic;Review;45;35;Lack of availability of incubation systems for bioindicators;Barrier;17; Instruments, technology and resources
+108;Joachim Pander;2013;North America and Europe;33813760;Rivers;Aquatic;Review;45;35;Production of bioindicators;Barrier;17; Instruments, technology and resources
+108;Joachim Pander;2013;North America and Europe;33813760;Rivers;Aquatic;Review;45;35;Reduced capacity of asessing ecological estructure elements;Barrier;15; Success assessment and evaluation
+108;Joachim Pander;2013;North America and Europe;33813760;Rivers;Aquatic;Review;45;35;Lack of inclusion of several trophic levels species (flora and fauna);Barrier;10; Knowledge on ecosystem structure and function
+117;Stephen K. Hamilton;2011;North America and Europe;33813760;Rivers;Aquatic;Review;126;35;Groundwater flow time lag;Barrier;20;Historical land-use
+117;Stephen K. Hamilton;2011;North America and Europe;33813760;Rivers;Aquatic;Review;126;35;Sediment storage time lag;Barrier;20;Historical land-use
+117;Stephen K. Hamilton;2011;North America and Europe;33813760;Rivers;Aquatic;Review;126;35;Phosphorus buffer time lag;Barrier;20;Historical land-use
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Erradication of degradation cause;Booster;21; Ongoing degradation
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Weak long-term funding ;Barrier;18; Temporal scale of the restoration projects
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Life history research;Booster;10; Knowledge on ecosystem structure and function
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Predation;Barrier;24; Intrinsic biotic factors
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Dfficulties at measuring indicators of success;Barrier;15; Success assessment and evaluation
+123;Holly P. Jones;2012;USA, Adelie Land (Antarctica), France, Wales, Mexico, New Zealand, Canada (Nova Scotia, New Burnswick, Ontario, Quebec), Bermuda, Japan, Ecuador, UK, Scotland;16327385;Marine;Oceanic;Review;29;35;Mismatch between indicators of success used and reality;Barrier;15; Success assessment and evaluation
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Agricultural, residential or industrial interests;Barrier;21; Ongoing degradation
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Improving of hidrologycal system and rewetting;Booster;14; Restoration techniques
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Topsoil removal;Booster;14; Restoration techniques
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Nutrient levels ;Barrier;20;Historical land-use
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Poor dispersal of fen meadow species;Barrier;24; Intrinsic biotic factors
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Soil seed bank composition;Barrier;24; Intrinsic biotic factors
+134;Agata Klimokowska;2010;Global;54870139;Wetlands;Aquatic;Review;170;35;Seed production competition;Barrier;24; Intrinsic biotic factors
+136;Lorena Gómez-Aparicio;2009;Ethiopia, Canada, Colombia, Spain, USA, Germany, Panama, UK, Mexico, China, South Africa, Russia, Thailand, Finland, Kenya, Costa Rica, Denmark, Sweden, Belize, India, Suiza, Australial, Uganda, Cameroon, Estonia, New Zealand, Puerto Rico;49670873;Several;Terrestrial;Meta-Analysis;165;35;Pre-existing vegetation;Booster;24; Intrinsic biotic factors
+136;Lorena Gómez-Aparicio;2009;Ethiopia, Canada, Colombia, Spain, USA, Germany, Panama, UK, Mexico, China, South Africa, Russia, Thailand, Finland, Kenya, Costa Rica, Denmark, Sweden, Belize, India, Suiza, Australial, Uganda, Cameroon, Estonia, New Zealand, Puerto Rico;49670873;Several;Terrestrial;Meta-Analysis;165;35;Increasing of  facilators shrubs and trees populations;Booster;14; Restoration techniques
+136;Lorena Gómez-Aparicio;2009;Ethiopia, Canada, Colombia, Spain, USA, Germany, Panama, UK, Mexico, China, South Africa, Russia, Thailand, Finland, Kenya, Costa Rica, Denmark, Sweden, Belize, India, Suiza, Australial, Uganda, Cameroon, Estonia, New Zealand, Puerto Rico;49670873;Several;Terrestrial;Meta-Analysis;165;35;Nurses;Booster;14; Restoration techniques
+3;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Limited understanding of wetland functions;Barrier;10; Knowledge on ecosystem structure and function
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Scientific issues mainly abous success criteria and effectiviness of restoration;Barrier;15; Success assessment and evaluation
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Poor understanding of self-designing;Barrier;10; Knowledge on ecosystem structure and function
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Poorly defined success criteria;Barrier;15; Success assessment and evaluation
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Lagged monitoring;Barrier;15; Success assessment and evaluation
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Disproportional attention to ecosystems type;Barrier;16; Project planning and goal definition
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Complexity of wetland degradation;Barrier;20;Historical land-use
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Innapropiate selection of reference sites;Barrier;16; Project planning and goal definition
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Time scale;Booster;18; Temporal scale of the restoration projects
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Lack of systematic and target-oriented evaluation;Barrier;15; Success assessment and evaluation
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Lack of long-term investigation;Barrier;18; Temporal scale of the restoration projects
+74;Quingquing Zhao;2016;China, Uruguay, Ireland, New England, Georgia, Louisiana, Mississippi, Texas, Florida, Colombia, Poland, The Netherlands, Japan;12914740;Wetlands;Aquatic;Review;60;37;Lack of long-term funding;Barrier;18; Temporal scale of the restoration projects
+47;Erin K. Espeland;2017;Mexico;1964375;Agroecosystem;Terrestrial;Review;70;40;"Amount of genetic variation or "" taking a relatively small sample from a relatively large population""";Booster;11; Knowledge on genetics
+47;Erin K. Espeland;2017;Mexico;1964375;Agroecosystem;Terrestrial;Review;70;40;Amount of genetic variation that persists during production of restoration material;Booster;11; Knowledge on genetics
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Late/mid/early succesional tree species dependance on AMR;Booster;10; Knowledge on ecosystem structure and function
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Prioritization of indigenous AMF management/atention;Booster;14; Restoration techniques
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Poor dispersal of AMF;Barrier;24; Intrinsic biotic factors
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Type of AMF inocula used ;Booster;14; Restoration techniques
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Increasing density of dominant AMF species;Barrier;14; Restoration techniques
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Single species AMF inoculum;Barrier;14; Restoration techniques
+59;Fissela Asmelash;2016;Malaysia, New Caledonia, Western India, Spain, Ethiopia, Northeast Brazil, Mexico, Cameroon, Somalia;8322827;Several;Terrestrial;Review;40;40;Very hard large-scale application/production;Barrier;17; Instruments, technology and resources
+60;Michael Elliot;2016;UK, Western Australia, South Africa;4108315;Rivers;Aquatic;Review;81;40;Societal perception ;Barrier;5; Societal integration
+60;Michael Elliot;2016;UK, Western Australia, South Africa;4108315;Rivers;Aquatic;Review;81;40;Lack of knowledge of estuarine dynamics (processes and structure);Barrier;10; Knowledge on ecosystem structure and function
+60;Michael Elliot;2016;UK, Western Australia, South Africa;4108315;Rivers;Aquatic;Review;81;40;Unrealistic conceptual foundation;Barrier;16; Project planning and goal definition
+60;Michael Elliot;2016;UK, Western Australia, South Africa;4108315;Rivers;Aquatic;Review;81;40;Lack of ecological expertise in engineers;Barrier;9; Integration of existing scientific knowledge 
+21;Mlungele M. Nsikani;2018;Global;54870139;Several;Terrestrial;Review;440;44;Secondary Invasion and/or Weedy Native Species Dominance. ;Barrier;24; Intrinsic biotic factors
+21;Mlungele M. Nsikani;2018;Global;54870139;Several;Terrestrial;Review;440;44;Reinvasion;Barrier;22; Invasive species 
+21;Mlungele M. Nsikani;2018;Global;54870139;Several;Terrestrial;Review;440;44;Depleted Native Soil Seed Banks. ;Barrier;22; Invasive species 
+21;Mlungele M. Nsikani;2018;Global;54870139;Several;Terrestrial;Review;440;44;Altered Soil Microbial Communities. ;Barrier;22; Invasive species 
+28;Margaux Y. Hein;2017;Puerto Rico, Honk Kong, Indonesia, Virgin Islands, Costa Rica, Fiji, Jordan, Mexico, Tanzania, Vietnam, Philippines. ;5617022;Marine;Oceanic;Review;83;45;Lack of economical considerations during effectiviness characterization;Barrier;1; Socioeconomic knowledge
+28;Margaux Y. Hein;2017;Puerto Rico, Honk Kong, Indonesia, Virgin Islands, Costa Rica, Fiji, Jordan, Mexico, Tanzania, Vietnam, Philippines. ;5617022;Marine;Oceanic;Review;83;45;Excessive focus on short-term biological responses of coral transplantations;Barrier;15; Success assessment and evaluation
+28;Margaux Y. Hein;2017;Puerto Rico, Honk Kong, Indonesia, Virgin Islands, Costa Rica, Fiji, Jordan, Mexico, Tanzania, Vietnam, Philippines. ;5617022;Marine;Oceanic;Review;83;45;Lack of long-term monitoring;Barrier;18; Temporal scale of the restoration projects
+33;N.V. Angelopoulus;2017;Europe;10180000;Rivers;Aquatic;Review;663;45;Poor or improper restoration project planning due to inadequate guidance;Barrier;16; Project planning and goal definition
+33;N.V. Angelopoulus;2017;Europe;10180000;Rivers;Aquatic;Review;663;45;Lack of measurable success criteria;Barrier;15; Success assessment and evaluation
+33;N.V. Angelopoulus;2017;Europe;10180000;Rivers;Aquatic;Review;663;45;National policy objectives;Booster;4; Policies and governance
+33;N.V. Angelopoulus;2017;Europe;10180000;Rivers;Aquatic;Review;663;45;Lack of long-term funding;Barrier;18; Temporal scale of the restoration projects
+33;N.V. Angelopoulus;2017;Europe;10180000;Rivers;Aquatic;Review;663;45;Defining of overarching goals by institutional, national and regional policies;Barrier;4; Policies and governance
+48;Fayuan Wang;2017;Global;54870139;Several;Terrestrial;Review;101;45;Organic amendments;Booster;14; Restoration techniques
+48;Fayuan Wang;2017;Global;54870139;Several;Terrestrial;Review;101;45;Dual inoculation;Booster;14; Restoration techniques
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Evaluation based just on diversity;Barrier;15; Success assessment and evaluation
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Lack of knowledge of structure, composition and dynamics;Barrier;10; Knowledge on ecosystem structure and function
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Excessive reliance on reforestation;Barrier;14; Restoration techniques
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Seek of short-term goals;Barrier;16; Project planning and goal definition
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Policies following corporate profits-goal and industrial model;Barrier;4; Policies and governance
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Nucleation technique low economical cost;Booster;3; Economic costs of restoration
+54;Fernando C. Bechara;2016;Costa Rica, Puerto Rico, Southern Brazilian, Guatemala, Peru, Ecuador, Panama, Honduras;2501957.6;Forests;Terrestrial;Review;94;45;Research temporal gap;Barrier;18; Temporal scale of the restoration projects
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Soil-surface crust;Barrier;23; Intrinsic abiotic factors
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Seeding depth;Booster;14; Restoration techniques
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Logistical constraints: site being too steep and/or rocky;Barrier;23; Intrinsic abiotic factors
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Logistical constraints: high densities of tree skeletons;Barrier;24; Intrinsic biotic factors
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Logistical constraints: lack of financial or logistical resources;Barrier;6; Funding
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Logistical constraints: cultural constraints;Barrier;5; Societal integration
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Competitiviness with non-native species;Barrier;22; Invasive species 
+58;Matthew D. Madsen;2016;North America;23633760;Grasslands;Terrestrial;Review;40;45;Economical costs;Barrier;3; Economic costs of restoration
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Lack of monitoring;Barrier;15; Success assessment and evaluation
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Hard integration of societal values and knowledges in restoration project;Barrier;5; Societal integration
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Use of response curves models;Booster;15; Success assessment and evaluation
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Hard indentification of site-specific context dimensions;Barrier;19; Context-specific factor consideration
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Hard application of knowledge in the evaluation and prediction;Barrier;9; Integration of existing scientific knowledge 
+83;Ellen Wohl;2015;USA, France, England, Wales, Switzerland;10299862;Rivers;Aquatic;Review;90;45;Gap between alteration scale and restoration scale;Barrier;25; Spatial scale
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Historical land-use legacy;Barrier;20;Historical land-use
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Topsoil removal;Booster;14; Restoration techniques
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Information about type of nutrient limitation;Booster;10; Knowledge on ecosystem structure and function
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Landscape scale management;Booster;25; Spatial scale
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Natural water-table fluctuation during the year;Booster;19; Context-specific factor consideration
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Dispersal limitation of target-species;Barrier;24; Intrinsic biotic factors
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Presence of dense non target and high competitive flora species;Barrier;24; Intrinsic biotic factors
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Conflicts at defining goals;Barrier;16; Project planning and goal definition
+87;Leon P. Lamers;2015;Germany, The Netherlands, USA, Quebec (Canada);11312117;Wetlands;Aquatic;Review;90;45;Integration of local communities;Booster;5; Societal integration
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Disturbance of the plot;Barrier;12; Methodological limitations
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Fatigue of field crew;Barrier;12; Methodological limitations
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Use of discrete data;Barrier;12; Methodological limitations
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Quality of taxa indentification data;Booster;10; Knowledge on ecosystem structure and function
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Lack of dataset ;Barrier;12; Methodological limitations
+73;Martin A. Stapanian;2016;Not specified*;NA;Several;All kinds;Review;45;48;Lack of knowledge in QA/QC application;Barrier;9; Integration of existing scientific knowledge 
+80;Ana Cristina Palma;2015;Ethiopia, Malaysia, Colombia, Mexico, USA, Switzerland, Sweden, Costa Rica, Brazil, Spain, Finland, Australia, South Africa, Panama, France, Kenya, Germnay, Canada, UK, England, Portugal, Japan, Czech Republic, Laos Belgium , Puerto Rico Argentina, Dominican Republic;39796971;Several;Mixed;Review;120;50;Seed availability;Barrier;17; Instruments, technology and resources
+80;Ana Cristina Palma;2015;Ethiopia, Malaysia, Colombia, Mexico, USA, Switzerland, Sweden, Costa Rica, Brazil, Spain, Finland, Australia, South Africa, Panama, France, Kenya, Germnay, Canada, UK, England, Portugal, Japan, Czech Republic, Laos Belgium , Puerto Rico Argentina, Dominican Republic, ;39796971;Several;Mixed;Review;120;50;Seed/seedling mortality;Barrier;24; Intrinsic biotic factors
+80;Ana Cristina Palma;2015;Ethiopia, Malaysia, Colombia, Mexico, USA, Switzerland, Sweden, Costa Rica, Brazil, Spain, Finland, Australia, South Africa, Panama, France, Kenya, Germnay, Canada, UK, England, Portugal, Japan, Czech Republic, Laos Belgium , Puerto Rico Argentina, Dominican Republic, ;39796971;Several;Mixed;Review;120;50;Seed dispersal and seedling survival;Barrier;14; Restoration techniques
+80;Ana Cristina Palma;2015;Ethiopia, Malaysia, Colombia, Mexico, USA, Switzerland, Sweden, Costa Rica, Brazil, Spain, Finland, Australia, South Africa, Panama, France, Kenya, Germnay, Canada, UK, England, Portugal, Japan, Czech Republic, Laos Belgium , Puerto Rico Argentina, Dominican Republic, ;39796971;Several;Mixed;Review;120;50;Lack of monitoring;Barrier;15; Success assessment and evaluation
+163;Henry N. Le Houerou;2000;North Africa and West Asia;12008346.8;Arid zones;Terrestrial;Review;40;50;Discontinuation of the degradation along time;Barrier;20;Historical land-use
+37;Andrew Sánchez Meador;2017;Western USA;4535602;Forests;Terrestrial;Systematic review;110;62;Inconsistent quality of published data and results;Barrier;12; Methodological limitations
+37;Andrew Sánchez Meador;2017;Western USA;4535602;Forests;Terrestrial;Systematic review;110;62;Lack of rigorous study designs;Barrier;12; Methodological limitations
+37;Andrew Sánchez Meador;2017;Western USA;4535602;Forests;Terrestrial;Systematic review;110;62;Dearth of replicated studies where “restoration” was an explicit focus;Barrier;12; Methodological limitations
+37;Andrew Sánchez Meador;2017;Western USA;4535602;Forests;Terrestrial;Systematic review;110;62;Reduced number of studies describing biota;Barrier;10; Knowledge on ecosystem structure and function
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Shelter and sufficient light;Booster;23; Intrinsic abiotic factors
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Cause of degradation eliminated;Booster;21; Ongoing degradation
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Proximity and recovery of donor beds;Booster;14; Restoration techniques
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Use of weight in planting techniques (anchoring);Booster;14; Restoration techniques
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Use of seedling as planting material;Barrier;14; Restoration techniques
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Broader spatial scale of plantings;Booster;25; Spatial scale
+66;Marieke M. van Katwijk;2016;France, Italy, Denmark, Belgium, The Netherlands, Western Australia, Japan, South Korea, Gulf and Atlantic coast of USA, ;9802529;Marine;Oceanic;Meta-Analysis;212;79;Larger amounts of initial plantings;Booster;14; Restoration techniques
+18;Y. Stacy Zhang;2018;North America;23633760;Several;Oceanic;Review;301;NA;Geographical mismatch in restoration knowledge;Barrier;8; Geographic bias
+18;Y. Stacy Zhang;2018;North America;23633760;Several;Oceanic;Review;301;NA;Lack of consideration of top-down interactions ;Barrier;9; Integration of existing scientific knowledge 
+21;Mlungele M. Nsikani;2018;Global;54870139;Several;Terrestrial;Review;440;NA;Elevated Soil N Status after clearing of invasive N2 fixing species;Barrier;22; Invasive species 
+23;Holly P. Jones;2018;Global;54870139;Several;All kinds;Meta-Analysis;400;NA;Previous agricultural or logging use;Barrier;20;Historical land-use
+23;Holly P. Jones;2018;Global;54870139;Several;All kinds;Meta-Analysis;400;NA;Lack of clear definition of goals and targets;Barrier;16; Project planning and goal definition
+23;Holly P. Jones;2018;Global;54870139;Several;All kinds;Meta-Analysis;400;NA;Inadequate application of active restoration;Barrier;16; Project planning and goal definition
+63;Renato Crouzeilles;2016;Sub-Saharian Africa, Souhteastern Asia, Latin America, USA;54870139;Forests;Terrestrial;Meta-Analysis;221;NA;Time elapsed since restoration began ;Booster;18; Temporal scale of the restoration projects
+63;Renato Crouzeilles;2016;Sub-Saharian Africa, Souhteastern Asia, Latin America, USA;54870139;Forests;Terrestrial;Meta-Analysis;221;NA;Disturbance level;Booster;21; Ongoing degradation
+63;Renato Crouzeilles;2016;Sub-Saharian Africa, Souhteastern Asia, Latin America, USA;54870139;Forests;Terrestrial;Meta-Analysis;221;NA;Landscape context ;Booster;25; Spatial scale
+63;Renato Crouzeilles;2016;Sub-Saharian Africa, Souhteastern Asia, Latin America, USA;54870139;Forests;Terrestrial;Meta-Analysis;221;NA;Coarse spatial resolution of the land cover data (1 km resolution) ;Barrier;12; Methodological limitations
+100;Margaret A. Palmer;2014;USA, Australia, Odahio (Canada), Spain,  Austria, Japan, Korea, New Zealand;18567518;Rivers;Aquatic;Review;149;NA;Function-target methodology;Barrier;10; Knowledge on ecosystem structure and function
